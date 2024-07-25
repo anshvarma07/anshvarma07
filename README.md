@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SoftwareIndia](https://www.softwareindia.online/)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eight-theta-38.vercel.app/](https://portfolio-eight-theta-38.vercel.app/)
 
